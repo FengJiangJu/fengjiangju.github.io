@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV of Fengjiang Ju"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +13,11 @@ Education
 ======
 * Ph.D in Geophysics, University of Southern California (USC), 2025-present
 * M.S. in Geophysics, Southern University of Science and Technology (SUSTech), 2022-2025
-* B.S. in Geophysics, China University of Petroleum（UPC）, 2018-2022
+  -GPA: 3.84/4.00
+  -Thesis: Research on the Control Mechanism of Anisotropic Heterogeneous Faults on Elongated Earthquake Ruptures
+* B.S. in Geophysics, China University of Petroleum（UPC), 2018-2022
+  -GPA: 3.84/4.00
+  -Thesis: The Application of the Frequency-bessel Method in Surface Wave Exploration for Near-Surface Investigations
 
 Publications
 ======
