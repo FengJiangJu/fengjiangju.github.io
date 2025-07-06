@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geological Sciences, GitHub University, 2027 (expected)
+* M.S. in Geophysics, GitHub University, 2022
+* B.S. in Geophysics, China University, 2018
 
 Work experience
 ======
