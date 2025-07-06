@@ -13,12 +13,6 @@ Currently, I am working on two main projects: the location of immediate foreshoc
 
 Looking ahead, I am particularly interested in pursuing research that integrates observational and simulation approaches to advance our understanding of earthquake sources. In the future, I plan to expand my research to Marine sciences, Volcanology and Life sciences by using geophysical and geological methods.
 
-Research Interests
-======
-- Earthquake Nucleation and Arrest
-- Eathquake Triggering
-- Microseismic Detection
-
 Why Earth Science?
 ======
 Many claim their passion for research began in childhood. For me, however, my fascination with Earth and natural sciences emerged during my master’s studies.
@@ -30,6 +24,12 @@ I sought to uncover the intrinsic principles governing these systems, only to re
 This intellectual journey led me to pursue a PhD at the University of Southern California, where I aim to delve deeper into nature’s essence, satiate my curiosity, and ultimately contribute meaningful insights to both the scientific community and societal progress.
 
 I greatly appreciate Xiaofei and Haoran's help and support.
+
+Research Interests
+======
+- Earthquake Nucleation and Arrest
+- Eathquake Triggering
+- Microseismic Detection
 
 Hobbies
 ======
