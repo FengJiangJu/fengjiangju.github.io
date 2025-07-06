@@ -29,6 +29,8 @@ I sought to uncover the intrinsic principles governing these systems, only to re
 
 This intellectual journey led me to pursue a PhD at the University of Southern California, where I aim to delve deeper into nature’s essence, satiate my curiosity, and ultimately contribute meaningful insights to both the scientific community and societal progress.
 
+I greatly appreciate Xiaofei and Haoran's help and support.
+
 Hobbies
 ======
 - Reading (Philosophy and history, with a focus on Chinese philosophy)
