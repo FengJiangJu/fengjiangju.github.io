@@ -29,7 +29,7 @@ author:
   location         : "Los Angeles, California, USA"
   employer         : "University of Southern California"
   uri              : # URL
-  email            : "jufj2000@gmail.com & juf@usc.edu" 
+  email            : ['jufj2000@gmail.com' , 'juf@usc.edu']
 
   # Academic websites
   academia         : # URL
