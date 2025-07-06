@@ -19,7 +19,7 @@ Research Interests
 - Eathquake Triggering
 - Microseismic Detection
 
-Why science?
+Why Earth Science?
 ======
 Many claim their passion for research began in childhood. For me, however, my fascination with Earth and natural sciences emerged during my master’s studies.
 
@@ -28,6 +28,13 @@ In the fall of 2022, I enrolled in the Geophysics master’s program at the Sout
 I sought to uncover the intrinsic principles governing these systems, only to realize that even the simplest questions often eluded explanation. Paradoxically, such questions seemed to touch upon the most fundamental truths. While scientific terminology and frameworks offer valuable descriptions, I also recognized their potential to constrain thought.
 
 This intellectual journey led me to pursue a PhD at the University of Southern California, where I aim to delve deeper into nature’s essence, satiate my curiosity, and ultimately contribute meaningful insights to both the scientific community and societal progress.
+
+Hobbies
+======
+- Reading (Philosophy and history, with a focus on Chinese philosophy)
+- Fitness Training (Focused on weight gain and muscle building)
+- Swimming (Currently advancing in freestyle technique)
+- Badminton (Practiced consistently for 3.5 years)
 
 For more info
 ------
