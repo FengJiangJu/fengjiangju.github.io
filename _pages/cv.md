@@ -11,26 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geological Sciences, GitHub University, 2027 (expected)
-* M.S. in Geophysics, GitHub University, 2022
-* B.S. in Geophysics, China University, 2018
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Geophysics, University of Southern California (USC), 2025-present
+* M.S. in Geophysics, Southern University of Science and Technology (SUSTech), 2022-2025
+* B.S. in Geophysics, China University of Petroleum（UPC）, 2018-2022
   
 Skills
 ======
