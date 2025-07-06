@@ -27,7 +27,8 @@ I greatly appreciate Xiaofei and Haoran's help and support.
 
 Research Interests
 ======
-- Earthquake Nucleation and Arrest
+- Earthquake Nucleation
+- Earthquake Arrest
 - Eathquake Triggering
 - Microseismic Detection
 
