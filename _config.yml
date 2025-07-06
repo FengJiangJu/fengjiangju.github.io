@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student since 2025"
   location         : "Los Angeles, California, USA"
-  employer         : "USC Los Angeles"
+  employer         : "U.S.C. (Los Angeles)"
   uri              : # URL
   email            : "juf@usc.edu or jufj2000@gmail.com"
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -71,7 +71,7 @@ author:
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : # Username
+  wechat           : Rivers_and_Oceans
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
