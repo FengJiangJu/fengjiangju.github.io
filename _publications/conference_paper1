@@ -6,6 +6,6 @@ permalink: /publication/conference_paper1
 // excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-04-18
 venue: 'Vienna, Austria'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+// paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Ju, F., Meng, H., Chen, X., & Yu, C. (2024, April). Detection of Immediate Foreshocks Using Dense Seismic Array: A Case Study of the 2021 Ms 6.4 Yangbi aftershock sequence. In EGU General Assembly Conference Abstracts (p. 3922).'
 ---
