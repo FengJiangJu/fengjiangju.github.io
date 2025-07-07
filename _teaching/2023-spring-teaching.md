@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Signal Analysis and Processing"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-spring-teaching
@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Shenzhen, China"
 ---
 
-Excellent Graduate Teaching Assistant, 2023
+Note: Selected as Outstanding Graduate Teaching Assistant due to good performance of teaching assistantships
