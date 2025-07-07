@@ -21,7 +21,7 @@ Education
   
   -GPA: 3.84/4.00
   
-  -Thesis: The Application of the Frequency-bessel Method in Surface Wave Exploration for Near-Surface Investigations
+  -Thesis: The Application of the frequency-Bessel Method in Surface Wave Exploration for Near-Surface Investigations
 
 Publications
 ======
@@ -52,6 +52,7 @@ Field Experiences
 Teaching
 ======
 * Signal Analysis and Processing, Graduate Course, 2023 Spring
+  - Excellent Graduate Teaching Assistant
 
 Skills
 ======
