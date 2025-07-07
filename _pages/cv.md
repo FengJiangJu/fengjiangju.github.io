@@ -58,4 +58,5 @@ Teaching
 Skills
 ======
 * Matlab, Python, C Language, SAC, Surfer, Latex, Linux, Adobe Illustrator
+* English, Mandarin
 
