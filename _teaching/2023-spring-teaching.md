@@ -9,12 +9,3 @@ location: "Shenzhen, China"
 ---
 
 Excellent Graduate Teaching Assistant, 2023
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
