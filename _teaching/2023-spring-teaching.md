@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Shenzhen, China"
 ---
 
-Note: Selected as Outstanding Graduate Teaching Assistant due to good performance of teaching assistantships
+-Note: Selected as Outstanding Graduate Teaching Assistant due to good performance of teaching assistantships
