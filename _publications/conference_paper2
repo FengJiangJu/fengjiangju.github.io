@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/conference_paper2
 // excerpt: 'This paper is about fixing template issue #693.'
-// date: 2024-04-18
+date: 2024-12-13
 venue: 'Washington, D.C., USA'
 // paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Ju, F., Meng, H., Xu, J., & Chen, X. (2024, December). Quantifying the Impact of Fractal Fault Heterogeneity on Rupture Dynamics in Small and Moderate Earthquakes Using the Boundary Integral Equation Method. In AGU Fall Meeting Abstracts (Vol. 2024, pp. S44A-05).'
