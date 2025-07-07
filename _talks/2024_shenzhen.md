@@ -1,10 +1,10 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Quantifying the Effect of Fault Anisotropic Heterogeneity on Small-to-Moderate Earthquake Rupture Dynamics Using Boundary Integral Equation Methods"
 collection: talks
-type: "Talk"
+type: "Oral"
 permalink: /talks/2024_shenzhen
-venue: "London School of Testing"
-date: 2024-09-27
+venue: "Southern University of Science and Technology"
+date: 2024-12-05
 location: "Shenzhen, China"
 ---
 
