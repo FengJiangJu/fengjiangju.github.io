@@ -52,7 +52,7 @@ Field Experiences
 Teaching
 ======
 * Signal Analysis and Processing, Graduate Course, 2023 Spring
-  - Excellent Graduate Teaching Assistant
+  -Excellent Graduate Teaching Assistant
 
 Skills
 ======
