@@ -17,13 +17,13 @@ Why Earth Science?
 ======
 Many claim their passion for research began in childhood. For me, however, my fascination with Earth and natural sciences emerged during my master’s studies.
 
-In the fall of 2022, I enrolled in the Geophysics master’s program at the Southern University of Science and Technology (SUSTech). My supervisors, Xiaofei and Haoran, granted me the time and intellectual freedom to explore both myself and the natural world, sparking a profound curiosity about diverse phenomena. I became captivated not only by the processes of earthquake nucleation, evolution, and cessation but also by the broader workings of nature—the Sun, Moon, thunderstorms, winds, lakes, fire, and mountains. There was an almost romantic allure to their elegance, driving me to understand their mechanisms and interconnectedness.
+In the fall of 2022, I enrolled in the Geophysics master’s program at the Southern University of Science and Technology (SUSTech). My supervisors granted me the time and intellectual freedom to explore both myself and the natural world, sparking a profound curiosity about diverse phenomena. I became captivated not only by the processes of earthquake nucleation, evolution, and cessation but also by the broader workings of nature—the Sun, Moon, thunderstorms, winds, lakes, fire, and mountains. There was an almost romantic allure to their elegance, driving me to understand their mechanisms and interconnectedness.
 
 I sought to uncover the intrinsic principles governing these systems, only to realize that even the simplest questions often eluded explanation. Paradoxically, such questions seemed to touch upon the most fundamental truths. While scientific terminology and frameworks offer valuable descriptions, I also recognized their potential to constrain thought.
 
 This intellectual journey led me to pursue a PhD at the University of Southern California, where I aim to delve deeper into nature’s essence, satiate my curiosity, and ultimately contribute meaningful insights to both the scientific community and societal progress.
 
-I greatly appreciate Xiaofei and Haoran's help and support.
+I greatly appreciate my master supervisors' help and support.
 
 Research Interests
 ======
