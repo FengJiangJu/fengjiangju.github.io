@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student, specializing in Geophysics, at University of Southern California (USC) in America. My current research interests are the mechanisms of earthquake nucleation through observational studies and investigating the rupture characters, such as aspect ratios, of small to moderate earthquakes in dynamic simulations.
+I am a PhD student, specializing in Natural Sciences (Geophysics), at University of Southern California (USC). My current research interests are the mechanisms of earthquake nucleation and investigating the rupture characters, such as aspect ratios, damage evolution of small to moderate earthquakes through observational studies and dynamic rupture simulations.
 
-Currently, I am working on some main projects: the location of immediate foreshocks and the analysis of rupture aspect ratios of small to moderate earthquakes in dynamic simulations. These projects have equipped me with a solid foundation in observational seismology and numerical modeling.
+Currently, I am working on some projects: the location of immediate foreshocks, the analysis of rupture aspect ratios of small to moderate earthquakes, the rock damage evolution and environment signal analysis. These projects have equipped me with a solid foundation in observational seismology and numerical modeling.
 
 Looking ahead, I am particularly interested in pursuing research that integrates observational and simulation approaches to advance our understanding of earthquake sources. In the future, I plan to expand my research to Marine sciences, Volcanology and Life sciences by using geophysical and geological methods.
 
