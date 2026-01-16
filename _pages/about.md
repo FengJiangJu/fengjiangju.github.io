@@ -30,6 +30,7 @@ Research Interests
 - Earthquake Seismology (Nucleation, Arrest, Triggering, Microseismic Detection)
 - Seismicity-Landform Interactions
 - Fractal Theory
+- Damage Rheology
 - Oceanic Seismology
 - Volcano Seismology
 - Paleoseismology
