@@ -11,7 +11,7 @@ I am a PhD student, specializing in Natural Sciences (Geophysics), at University
 
 Currently, I am working on some projects: the location of immediate foreshocks, the analysis of rupture aspect ratios of small to moderate earthquakes, the rock damage evolution and environment signal analysis. These projects have equipped me with a solid foundation in observational seismology and numerical modeling.
 
-Looking ahead, I am particularly interested in pursuing research that integrates observational and simulation approaches to advance our understanding of earthquake sources. In the future, I plan to expand my research to Marine sciences, Volcanology and Life sciences by using geophysical and geological methods.
+Looking ahead, I am particularly interested in pursuing research that integrates observational and simulation approaches to advance our understanding of earthquake sources. In the future, I plan to expand my research to Marine sciences, Volcanology and Life sciences by using geophysical, geological and other methods.
 
 Why Earth Science?
 ======
@@ -27,17 +27,23 @@ I greatly appreciate my master supervisors' help and support.
 
 Research Interests
 ======
-- Earthquake Nucleation
-- Earthquake Arrest
-- Eathquake Triggering
-- Microseismic Detection
+- Earthquake Seismology
+  Earthquake Nucleation
+  Earthquake Arrest
+  Eathquake Triggering
+  Microseismic Detection
+- Seismicity-Landform Interactions
+- Fractal Theory
+- Oceanic Seismology
+- Volcano Seismology
+- Paleoseismology
 
 Hobbies
 ======
 - Reading (Philosophy and history, with a focus on Chinese philosophy)
 - Fitness Training (Focused on weight gain and muscle building)
 - Swimming (Currently advancing in freestyle technique)
-- Badminton (Practiced consistently for 3.5 years)
+- Badminton, Golf, Tennis and Basketball.
 
 For more info
 ------
