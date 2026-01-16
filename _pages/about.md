@@ -27,11 +27,7 @@ I greatly appreciate my master supervisors' help and support.
 
 Research Interests
 ======
-- Earthquake Seismology
-  Earthquake Nucleation
-  Earthquake Arrest
-  Eathquake Triggering
-  Microseismic Detection
+- Earthquake Seismology (Nucleation, Arrest, Triggering, Microseismic Detection)
 - Seismicity-Landform Interactions
 - Fractal Theory
 - Oceanic Seismology
