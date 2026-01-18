@@ -37,10 +37,11 @@ Research Interests
 
 Hobbies
 ======
+- Art of Doing Nothing
 - Reading (Philosophy and history, with a focus on Chinese philosophy)
 - Fitness Training (Focused on weight gain and muscle building)
 - Swimming (Currently advancing in freestyle technique)
-- Badminton, Golf, Tennis and Basketball.
+- Badminton, Golf, Tennis and Basketball
 
 For more info
 ------
